@@ -10,4 +10,7 @@ https://www.microsoft.com/en-us/research/project/cross-domain-data-fusion/
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Methods20for20Cross-Domain20Data20fusion.pdf
 
 Tensorflow
-helloworld:https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/tensorflow11_build_network.py
+Helloworld:https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/tensorflow11_build_network.py
+Tutorial:https://www.youtube.com/playlist?list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8
+https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
+Stanford:https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
