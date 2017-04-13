@@ -4,3 +4,8 @@ Using convolutional networks and satellite imagery to identify patterns in urban
 Deep learning course
 http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html
 http://www.bilibili.com/video/av9770302/
+
+Multi-modal fusion review
+https://www.microsoft.com/en-us/research/project/cross-domain-data-fusion/
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Methods20for20Cross-Domain20Data20fusion.pdf
+
