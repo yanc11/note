@@ -9,3 +9,5 @@ Multi-modal fusion review
 https://www.microsoft.com/en-us/research/project/cross-domain-data-fusion/
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Methods20for20Cross-Domain20Data20fusion.pdf
 
+Tensorflow
+helloworld:https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/tensorflow11_build_network.py
